@@ -1,0 +1,5 @@
+Public:
+Recursos estáticos
+src:
+código fuente
+index.js --> punto de entrada de la app
